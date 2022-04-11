@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://temple963.github.io/my_launchx_blog/posts/intro/</loc>
-    <lastmod>2022-02-21T18:16:21-06:00</lastmod>
+    <loc>https://temple963.github.io/my_launchx_blog/posts/post_2/</loc>
+    <lastmod>2022-04-11T11:00:00-06:00</lastmod>
   </url><url>
     <loc>https://temple963.github.io/my_launchx_blog/</loc>
+    <lastmod>2022-04-11T11:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://temple963.github.io/my_launchx_blog/posts/post_1/</loc>
+    <lastmod>2022-04-11T11:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://temple963.github.io/my_launchx_blog/posts/intro/</loc>
     <lastmod>2022-02-21T18:16:21-06:00</lastmod>
   </url><url>
     <loc>https://temple963.github.io/my_launchx_blog/posts/</loc>

@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://temple963.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Aprendiendo Git</title>
+      <link>https://temple963.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Mon, 11 Apr 2022 11:00:00 -0600</pubDate>
+      
+      <guid>https://temple963.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hola! Empezaremos con la definicion de Git y su proposito. GiT es un control de versiones, esto quiere decir que es un programa destinado al manejo de un mismo proyecto desde diferentes puntos de vista, para hacer un mejor ejemplo supongamos que el objetivo es hacer un pastel y somos un equipo de 3 personas uno va a hacer la mezcla del pastel, otro va a hacer la mezcla de la cubierta y otro va a supervisar y afinara detalles al final todos uniran sus proyectos para un mismo resultado &amp;ldquo;El pastel&amp;rdquo;, Basicamente es lo mismo en Git.</description>
+    </item>
+    
+    <item>
+      <title>Mi Primer Post</title>
+      <link>https://temple963.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 11 Apr 2022 11:00:00 -0600</pubDate>
+      
+      <guid>https://temple963.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! Empezaremos Con esta traviseia, odisea y epifania de la programacion en Js, Se han escuchado Cosas buenas y muuuchas cosas malas, Pero realmente me siento emocionado por esta nueva etapa, me apasaiona descubrir cosas nuevas y compenreder conceptos que antes no entenida, descubrir el sentido de las cosas junto con teorisar acerca de lo que se puede lograr con mis nuevos conocimientos. Sin mas que comentar por ahora seguiremos con este viaje.</description>
+    </item>
+    
+    <item>
       <title>La Cultura en el Desarrollo de Software</title>
       <link>https://temple963.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
