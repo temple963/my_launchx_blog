@@ -7,4 +7,7 @@ Hola ✌️  soy el explorer **Ruz** y este es mi blog personal donde compartir�
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-🚀
+🚀Conocimientos en Git
+🚀 Javascript
+🚀uso de github
+🚀Etc. 
