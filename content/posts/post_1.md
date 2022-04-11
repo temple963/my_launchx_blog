@@ -1,6 +1,6 @@
 ---
 title: "Mi Primer Post"
-date: 2022-04-11T18:16:21-06:00
+date: 2022-04-11T11:00:00-06:00
 description: 'Aqui El Primer Post.'
 ---
 
